@@ -202,7 +202,8 @@
 0.0.0.0 www.teensex.guru
 0.0.0.0 thotsbay.com 
 0.0.0.0 www.thotsbay.com
-https://cdn0.thotsbay.com
+0.0.0.0 cdn0.thotsbay.com
+0.0.0.0 www.cdn0.thotsbay.com
 0.0.0.0 topredporn.com 
 0.0.0.0 www.topredporn.com
 0.0.0.0 rednudes.com 
@@ -2820,7 +2821,7 @@ https://cdn0.thotsbay.com
 0.0.0.0 www.xxxsexmodels.com
 0.0.0.0 chaturbate.com 
 0.0.0.0 www.chaturbate.com
-0.0.0.0 tumblr.com #Site blocked due to possible sources of harmful content
+0.0.0.0 tumblr.com
 0.0.0.0 www.tumblr.com
 0.0.0.0 tumbex.com 
 0.0.0.0 www.tumbex.com
@@ -3500,9 +3501,9 @@ https://cdn0.thotsbay.com
 0.0.0.0 www.playwithfaye.com
 0.0.0.0 clubfayereagan.com 
 0.0.0.0 www.clubfayereagan.com
-0.0.0.0 mytrannylover.com #Site banned fed for harmful content
+0.0.0.0 mytrannylover.com
 0.0.0.0 www.mytrannylover.com
-0.0.0.0 mypornstarblogs.com #Site banned for hmful content
+0.0.0.0 mypornstarblogs.com
 0.0.0.0 www.mypornstarblogs.com
 0.0.0.0 pornissimo.org 
 0.0.0.0 www.pornissimo.org
@@ -3652,20 +3653,6 @@ https://cdn0.thotsbay.com
 0.0.0.0 www.matureslut6.com
 0.0.0.0 tubewee.com 
 0.0.0.0 www.tubewee.com
-#0.0.0.0 google.com #Site temporarily banned for repeated offenses
-#0.0.0.0 www.google.com
-#0.0.0.0 facebook.com
-#0.0.0.0 www.facebook.com
-#0.0.0.0 static.ak.fbcdn.net
-#0.0.0.0 www.static.ak.fbcdn.net
-#0.0.0.0 login.facebook.com
-#0.0.0.0 www.login.facebook.com
-#0.0.0.0 fbcdn.net
-#0.0.0.0 www.fbcdn.net
-#0.0.0.0 fbcdn.com
-#0.0.0.0 www.fbcdn.com
-#0.0.0.0 static.ak.connect.facebook.com
-#0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 mrvineforum.net 
 0.0.0.0 www.mrvineforum.net
 0.0.0.0 toplistx.com 
@@ -3730,10 +3717,6 @@ https://cdn0.thotsbay.com
 0.0.0.0 www.ghostnsfw.com
 0.0.0.0 fusker.the-eye.eu
 0.0.0.0 www.fusker.the-eye.eu #Description: Image viewer for open directories, do not unblock
-#0.0.0.0 beet.the-eye.eu
-#0.0.0.0 www.beet.the-eye.eu #Description: Mirror of The Eye, unblock in case of emergency CURRENTLY UNBLOCKED BECAUSE OFFENDING CONTENT WAS POSSIBLY REMOVED
-#0.0.0.0 the-eye.eu
-#0.0.0.0 www.the-eye.eu #Description: The Eye datahoarding server, unblock in case of emergency
 0.0.0.0 wildarchives.the-eye.eu 
 0.0.0.0 www.wildarchives.the-eye.eu
 0.0.0.0 p.4cache.net 
